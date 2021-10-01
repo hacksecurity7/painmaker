@@ -2,19 +2,19 @@
 
 ### English:
 Its a virus written with python.
-til now this tool does 3 main things:
+til now this tool does 4 main things:
 1.Reproduce
 2.Remove files
 3.Remove itself
 4.Filling cpu
 
-#### �����
-������ ����� ��� �� ������
-�� ��� ���� 3 ��� ���� ��� ����� ����� ��� ��:
-1.����� ���
-2.��� ���� ��
-3.��������� � ��� ���
-4.�� ����  cpu
+#### فارسی
+ویروسی ساخته شده با پایتون
+در حال حاضر ۴ کار اصلی این ویروس عبارت است از:
+1.تولید مثل
+2.حذف فایل ها
+3.خودتخریبی و حذف خود
+4.پر کردن cpu
 
 ### usage
 
