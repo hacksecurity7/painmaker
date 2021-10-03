@@ -2,8 +2,8 @@
 
 ### English:
 Its a virus written with python.
-til now this tool does 5 main things:
-1.Reproduce
+till now this tool does 5 main things:
+#1.Reproduce
 2.Remove files
 3.Lock files
 4.Remove itself
