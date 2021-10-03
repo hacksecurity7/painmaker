@@ -19,6 +19,7 @@ till now this tool does 5 main things:
 5.پر کردن cpu
 
 ### usage
-
+```
 python painmaker.py
+```
 
