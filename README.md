@@ -2,6 +2,7 @@
 
 ### English:
 Its a virus written with python.
+
 till now this tool does 5 main things:
 
 1.Reproduce
@@ -17,6 +18,7 @@ till now this tool does 5 main things:
 
 #### فارسی:
 ویروسی ساخته شده با پایتون
+
 در حال حاضر ۵ کار اصلی این ویروس عبارت است از:
 
 1.تولید مثل
