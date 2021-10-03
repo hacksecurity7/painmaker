@@ -19,6 +19,7 @@ till now this tool does 5 main things:
 5.پر کردن cpu
 
 ### usage
+(Can be a bit diffrent based on your device and python)
 Open cmd, set the right destination and:
 ```
 python painmaker.py
